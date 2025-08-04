@@ -22,7 +22,7 @@ A smart AI-powered agent offering **real-time, localized agricultural advice** t
 
 | Configuration | Screenshot |
 |---------------|------------|
-| **Agent Setup** | ![Agent Setup Screenshot](./images/agent_setup.png) |
+| **Agent Setup** | ![Agent Setup Screenshot](Agent_Setup.png) |
 
 **Agent Description:**  
 > Smart AI agent offering real-time, local farming advice using RAG for small-scale farmers.
@@ -37,7 +37,7 @@ A smart AI-powered agent offering **real-time, localized agricultural advice** t
 | **Q2:** *What is the mandi rate for onions today in Hyderabad?* | The current mandi rate is **₹12.4/kg**. |
 
 📸 Screenshot of actual interaction:  
-![Chat Interaction](./images/chat_sample.png)
+![Chat Interaction](Agent_interaction.png)
 
 ---
 
@@ -104,13 +104,4 @@ Using IBM Cloud, LangGraph, and open agriculture datasets
 
 ---
 
-## 📸 Screenshots
-
-### 1. Agent Setup  
-![Setup](./images/agent_setup.png)
-
-### 2. Chat Preview  
-![Chat](./images/chat_sample.png)
-
----
 
